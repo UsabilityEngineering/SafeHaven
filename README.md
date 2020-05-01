@@ -17,7 +17,7 @@ Zero Hanami -  Reported the methods, findings, and conclusions of the preliminar
 
 ## Phase 2: Interaction Design
 
-*Coming soon*
+[Phase 2](phase2/)
 
 ## Phase 3: Usability Evaluation
 
