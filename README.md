@@ -13,11 +13,11 @@ Zero Hanami -  Reported the methods, findings, and conclusions of the preliminar
 - We used the method of surveying to gather data as we wanted a wide variety of input as well. By using a questionnaire, we were able to ask more questions and get quantifiable data, allowing us to make changes pertaining to the newfound information.
 - From the results, we found that the majority of respondents ask their friends or family to contact them when they get home/destination and also share their locations with them. Considering that most respondents already communicate with friends and family, we can conclude that we may need to narrow our focus on shortening the process of calling out to a user’s safety net for help.
 
-[Full phase 1 report](phase1/)
+[Full phase 1 Report](phase1/)
 
 ## Phase 2: Interaction Design
-
-[Phase 2](phase2/)
+- We revised our wire frames based on our findings in Phase 1, and created a beginning interactive prototype for future testing.
+[Full Phase 2 Report](phase2/)
 
 ## Phase 3: Usability Evaluation
 
