@@ -4,9 +4,9 @@ We want to develop a software that allows users to communicate with the ones the
 
 ## Team Members
 
-Makena Haroldson - Summarized report and analyzed the caveats of the project, while helping make the scenarios and personas. Created wireframe and prototype.<br/>
-Israel Ramos - Authored personas and scenarios and edited work. Wrote phase 3's protocol.<br/>
-Zero Hanami -  Reported the methods, findings, and conclusions of the preliminary research in phase 1. Helped create prototype and moderated phase's 3 protocol. <br/>
+[Makena Haroldson](https://usabilityengineering.github.io/uxportfolio-maklh899/) - Summarized report and analyzed the caveats of the project, while helping make the scenarios and personas. Created wireframe and prototype.<br/>
+[Israel Ramos](https://usabilityengineering.github.io/uxportfolio-iramosromero/) - Authored personas and scenarios and edited work. Wrote phase 3's protocol.<br/>
+[Zero Hanami](https://usabilityengineering.github.io/uxportfolio-0hana/) -  Reported the methods, findings, and conclusions of the preliminary research in phase 1. Helped create prototype and moderated phase's 3 protocol. <br/>
 
 ## Phase 1: User Inquiry and Inspection
 
