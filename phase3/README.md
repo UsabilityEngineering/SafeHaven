@@ -23,6 +23,7 @@ For task 3 it is important to see if somebody could send a distress signal as qu
 #### Wrap-Up Questions
 
 **After going through our app what did you think of the layout?**
+
 The reason for this question is to see what the user thought about our button layout. It's good to know if they thought an icon was misinterpreted or a location of a button was confusing.
 
 **What is one thing you dislike most about the app?**
