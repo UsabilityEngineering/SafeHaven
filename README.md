@@ -23,25 +23,4 @@ Zero Hanami -  Reported the methods, findings, and conclusions of the preliminar
 ## Phase 3: Usability Evaluation
 - We finished the final draft of our prototype and created a protocol in order to run a usability test. We used one of our personas to create tasks carried out by the tester.
 
-[Protocol](assets/protocol.pdf)
-
-[Prototype](https://xd.adobe.com/view/a6c874bc-1403-4167-5551-decc2e6fd092-d0f9/?fullscreen&hints=off)
-
-For Task 1 in our protocol, We hope to discover through this task how efficient modifying and changing settings on the spot would be. We would also want a first-hand look on how a user would navigate our app and if we had left some things unclear.
-
-Task 2 has the tester create a group for a certain outing, add members to it, and configure the group settings. We hope to see how effective we have made our app to handle a specific situation. We would also like to see how fast and error-tolerant setting up groups are since it is our main focus when developing the app.
-
-For Task 3, it is important to see if a user can send a distress signal as quickly as possible. Time is important and would want the user to reach the correct feature always.
-
-The 1st wrap-up question is to see what the user thought about our button layout. It's good to know if they thought an icon was misinterpreted or a location of a button was confusing.
-
-The 2nd question is to get feedback on what we should focus on polishing in the prototype.
-It helps us decide what to exclude from our application but it also helps us discover features we could add.
-
-From the 3rd question, we hope to determine which feature of our prototype was most enjoyed or valued by the user. We can use this finding to help influence future decisions about how features should be designed or added.
-
-The 4th question is to get the user's input on features or functions we should add to the prototype to streamline or improve the its versatility.
-
-The 5th is a free question to let the user to tell us something about our app that we maybe didn’t ask or didn’t get to.
-
 [Full Phase 3 Report](phase3/)
