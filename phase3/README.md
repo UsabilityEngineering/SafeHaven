@@ -8,19 +8,19 @@
 
 ## Explanations for Protocol
 
-#### Task 1
+### Task 1
 
 We are hoping to discover through this task how efficient modifying and changing settings on the spot would be. We would also want a first-hand look at how a user would navigate our app and if we had left some things unclear.
 
-#### Task 2
+### Task 2
 
 Task 2 has the tester create a group for a certain outing, add members to it, and configure the group settings. We hope to see how effective we have made our app to handle a specific situation. We would also like to see how fast and error tolerant setting up groups are since it is our main focus when developing the app.
 
-#### Task 3
+### Task 3
 
 For task 3 it is important to see if somebody could send a distress signal as quickly as possible. Time is important and would want the user to reach the correct feature always.
 
-#### Wrap-Up Questions
+### Wrap-Up Questions
 
 **After going through our app what did you think of the layout?**
 
