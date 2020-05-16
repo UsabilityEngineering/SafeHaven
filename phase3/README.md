@@ -2,7 +2,7 @@
 
 ## Important Links
 
-> [Protocol](../assests/protocol.pdf)
+> [Protocol](../assets/protocol.pdf)
 
 > [Prototype](https://xd.adobe.com/view/a6c874bc-1403-4167-5551-decc2e6fd092-d0f9/)
 
